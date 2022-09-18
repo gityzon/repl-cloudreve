@@ -1,4 +1,4 @@
-# cloudreve-pg-repl
+# repl-cloudreve
 
 cloudreve on replit.
 
