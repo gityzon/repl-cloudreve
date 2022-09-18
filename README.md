@@ -18,7 +18,7 @@ Null
 
    Choose "Import from GitHub".
 
-<a href="https://replit.com/github/gityzon/cloudreve-repl">
+<a href="https://replit.com/github/gityzon/repl-cloudreve">
   <img alt="Run on Repl.it" src="https://replit.com/badge/github/github/gityzon" style="height: 40px; width: 190px;" />
 </a>
 
@@ -30,7 +30,7 @@ If you use mobile phone,please set the UA of Browser as "Desktop" or maybe repli
 
 2. Copy these code to Replit's Shell and ←
 
-   `git clone https://github.com/gityzon/cloudreve-repl && mv -b cloudreve-repl/* ./ && mv -b cloudreve-repl/.[^.]* ./ && rm -rf *~ && rm -rf cloudreve-repl`
+   `git clone https://github.com/gityzon/repl-cloudreve && mv -b repl-cloudreve/* ./ && mv -b repl-cloudreve/.[^.]* ./ && rm -rf *~ && rm -rf repl-cloudreve`
 
 3. After "Loading Nix environment..." is done, ▶RUN!!!
 
